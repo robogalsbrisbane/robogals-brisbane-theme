@@ -1,7 +1,5 @@
 === Robogals Brisbane ===
-
-Contributors: r-portas, automattic
-Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
+Contributors: r-portas, automattic Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
 
 Requires at least: 4.0
 Tested up to: 4.7
@@ -26,11 +24,6 @@ A wordpress theme for Robogals Brisbane
 = Does this theme support any plugins? =
 
 Robogals Brisbane includes support for Infinite Scroll in Jetpack.
-
-== Changelog ==
-
-= 1.0 - May 12 2015 =
-* Initial release
 
 == Credits ==
 
