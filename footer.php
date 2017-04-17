@@ -17,7 +17,7 @@
 		<div class="site-info">
             <p>
                 <b>Get Involved!</b><br>
-                If you are a parent, educator, school student, university student or industry professional of any age and gender, you can get involved with us. Find out more <a href="#">here</a>!
+                If you are a parent, educator, school student, university student or industry professional of any age and gender, you can get involved with us. Find out more <a href="/get-involved">here</a>!
             </p>
 		</div><!-- .site-info -->
 
