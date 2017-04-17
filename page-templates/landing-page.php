@@ -20,7 +20,11 @@ get_header();
 	if ( has_post_thumbnail() ) {
 		the_post_thumbnail_url( 'full' );
 	}
-	?>);
+    ?>);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 </style>
 
