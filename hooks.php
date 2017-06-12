@@ -15,6 +15,7 @@ function create_sponser_posttype() {
 				'singular_name' => __('Sponsor')
 			),
 			'public' => true,
+			'show_in_rest' => true,
 			'has_archive' => true,
 			'rewrite' => array( 'slug' => 'sponsors' ),
 			'supports' => array(
@@ -38,6 +39,7 @@ function create_exec_posttype() {
 				'singular_name' => __('Executive')
 			),
 			'public' => true,
+			'show_in_rest' => true,
 			'has_archive' => true,
 			'rewrite' => array('slug' => 'executives'),
 			'supports' => array(
